@@ -1,0 +1,15 @@
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe6\obj\Debug\net7.0\aufgabe6.csproj.AssemblyReference.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe6\obj\Debug\net7.0\aufgabe6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe6\obj\Debug\net7.0\aufgabe6.AssemblyInfoInputs.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe6\obj\Debug\net7.0\aufgabe6.AssemblyInfo.cs
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe6\obj\Debug\net7.0\aufgabe6.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe6\bin\Debug\net7.0\aufgabe6.exe
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe6\bin\Debug\net7.0\aufgabe6.deps.json
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe6\bin\Debug\net7.0\aufgabe6.runtimeconfig.json
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe6\bin\Debug\net7.0\aufgabe6.dll
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe6\bin\Debug\net7.0\aufgabe6.pdb
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe6\obj\Debug\net7.0\aufgabe6.dll
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe6\obj\Debug\net7.0\refint\aufgabe6.dll
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe6\obj\Debug\net7.0\aufgabe6.pdb
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe6\obj\Debug\net7.0\aufgabe6.genruntimeconfig.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe6\obj\Debug\net7.0\ref\aufgabe6.dll

@@ -1,0 +1,15 @@
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe3\bin\Debug\net7.0\aufgabe3.exe
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe3\bin\Debug\net7.0\aufgabe3.deps.json
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe3\bin\Debug\net7.0\aufgabe3.runtimeconfig.json
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe3\bin\Debug\net7.0\aufgabe3.dll
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe3\bin\Debug\net7.0\aufgabe3.pdb
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe3\obj\Debug\net7.0\aufgabe3.csproj.AssemblyReference.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe3\obj\Debug\net7.0\aufgabe3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe3\obj\Debug\net7.0\aufgabe3.AssemblyInfoInputs.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe3\obj\Debug\net7.0\aufgabe3.AssemblyInfo.cs
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe3\obj\Debug\net7.0\aufgabe3.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe3\obj\Debug\net7.0\aufgabe3.dll
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe3\obj\Debug\net7.0\refint\aufgabe3.dll
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe3\obj\Debug\net7.0\aufgabe3.pdb
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe3\obj\Debug\net7.0\aufgabe3.genruntimeconfig.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung1\aufgabe3\obj\Debug\net7.0\ref\aufgabe3.dll

@@ -1,0 +1,60 @@
+C:\Users\Emil\Desktop\code\C# Programm\bin\Debug\net7.0\C# Programm.exe
+C:\Users\Emil\Desktop\code\C# Programm\bin\Debug\net7.0\C# Programm.deps.json
+C:\Users\Emil\Desktop\code\C# Programm\bin\Debug\net7.0\C# Programm.runtimeconfig.json
+C:\Users\Emil\Desktop\code\C# Programm\bin\Debug\net7.0\C# Programm.dll
+C:\Users\Emil\Desktop\code\C# Programm\bin\Debug\net7.0\C# Programm.pdb
+C:\Users\Emil\Desktop\code\C# Programm\obj\Debug\net7.0\C# Programm.csproj.AssemblyReference.cache
+C:\Users\Emil\Desktop\code\C# Programm\obj\Debug\net7.0\C# Programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\Desktop\code\C# Programm\obj\Debug\net7.0\C# Programm.AssemblyInfoInputs.cache
+C:\Users\Emil\Desktop\code\C# Programm\obj\Debug\net7.0\C# Programm.AssemblyInfo.cs
+C:\Users\Emil\Desktop\code\C# Programm\obj\Debug\net7.0\C# Programm.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\code\C# Programm\obj\Debug\net7.0\C# Programm.dll
+C:\Users\Emil\Desktop\code\C# Programm\obj\Debug\net7.0\refint\C# Programm.dll
+C:\Users\Emil\Desktop\code\C# Programm\obj\Debug\net7.0\C# Programm.pdb
+C:\Users\Emil\Desktop\code\C# Programm\obj\Debug\net7.0\C# Programm.genruntimeconfig.cache
+C:\Users\Emil\Desktop\code\C# Programm\obj\Debug\net7.0\ref\C# Programm.dll
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\CSharp Programm\bin\Debug\net7.0\C# Programm.exe
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\CSharp Programm\bin\Debug\net7.0\C# Programm.deps.json
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\CSharp Programm\bin\Debug\net7.0\C# Programm.runtimeconfig.json
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\CSharp Programm\bin\Debug\net7.0\C# Programm.dll
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\CSharp Programm\bin\Debug\net7.0\C# Programm.pdb
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\CSharp Programm\obj\Debug\net7.0\C# Programm.csproj.AssemblyReference.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\CSharp Programm\obj\Debug\net7.0\C# Programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\CSharp Programm\obj\Debug\net7.0\C# Programm.AssemblyInfoInputs.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\CSharp Programm\obj\Debug\net7.0\C# Programm.AssemblyInfo.cs
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\CSharp Programm\obj\Debug\net7.0\C# Programm.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\CSharp Programm\obj\Debug\net7.0\C# Programm.dll
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\CSharp Programm\obj\Debug\net7.0\refint\C# Programm.dll
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\CSharp Programm\obj\Debug\net7.0\C# Programm.pdb
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\CSharp Programm\obj\Debug\net7.0\C# Programm.genruntimeconfig.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\CSharp Programm\obj\Debug\net7.0\ref\C# Programm.dll
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\Datentypen\obj\Debug\net7.0\C# Programm.csproj.AssemblyReference.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\Datentypen\obj\Debug\net7.0\C# Programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\Datentypen\obj\Debug\net7.0\C# Programm.AssemblyInfoInputs.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\Datentypen\obj\Debug\net7.0\C# Programm.AssemblyInfo.cs
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\Datentypen\obj\Debug\net7.0\C# Programm.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\Datentypen\obj\Debug\net7.0\C# Programm.dll
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\Datentypen\obj\Debug\net7.0\refint\C# Programm.dll
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\Datentypen\obj\Debug\net7.0\C# Programm.pdb
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\Datentypen\bin\Debug\net7.0\C# Programm.exe
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\Datentypen\bin\Debug\net7.0\C# Programm.deps.json
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\Datentypen\bin\Debug\net7.0\C# Programm.runtimeconfig.json
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\Datentypen\bin\Debug\net7.0\C# Programm.dll
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\Datentypen\bin\Debug\net7.0\C# Programm.pdb
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\Datentypen\obj\Debug\net7.0\C# Programm.genruntimeconfig.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\Datentypen\obj\Debug\net7.0\ref\C# Programm.dll
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung0\Datentypen\bin\Debug\net7.0\C# Programm.exe
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung0\Datentypen\bin\Debug\net7.0\C# Programm.deps.json
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung0\Datentypen\bin\Debug\net7.0\C# Programm.runtimeconfig.json
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung0\Datentypen\bin\Debug\net7.0\C# Programm.dll
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung0\Datentypen\bin\Debug\net7.0\C# Programm.pdb
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung0\Datentypen\obj\Debug\net7.0\C# Programm.csproj.AssemblyReference.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung0\Datentypen\obj\Debug\net7.0\C# Programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung0\Datentypen\obj\Debug\net7.0\C# Programm.AssemblyInfoInputs.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung0\Datentypen\obj\Debug\net7.0\C# Programm.AssemblyInfo.cs
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung0\Datentypen\obj\Debug\net7.0\C# Programm.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung0\Datentypen\obj\Debug\net7.0\C# Programm.dll
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung0\Datentypen\obj\Debug\net7.0\refint\C# Programm.dll
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung0\Datentypen\obj\Debug\net7.0\C# Programm.pdb
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung0\Datentypen\obj\Debug\net7.0\C# Programm.genruntimeconfig.cache
+C:\Users\Emil\Desktop\code\CSharp Programm Ordner\übung0\Datentypen\obj\Debug\net7.0\ref\C# Programm.dll
